@@ -1,0 +1,148 @@
+Name: Jenit Chadha
+Assignment: SDS510 - Module 1 - Bashing and GitHub
+Script started on Sat Oct 17 13:36:40 2026
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004h[7mcurl -L 'https://www.dropbox.com/s/14jagxjbzhyxg8g/lo[7mg[7m.tar.gz?dl=1' -o log.tar.gz[27m[K[A[14C[27mc[27mu[27mr[27ml[27m [27m-[27mL[27m [27m'[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mw[27mw[27mw[27m.[27md[27mr[27mo[27mp[27mb[27mo[27mx[27m.[27mc[27mo[27mm[27m/[27ms[27m/[27m1[27m4[27mj[27ma[27mg[27mx[27mj[27mb[27mz[27mh[27my[27mx[27mg[27m8[27mg[27m/[27ml[27mog[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m?[27md[27ml[27m=[27m1[27m'[27m [27m-[27mo[27m [27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[K[?2004l
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100    127 100    127   0      0    480      0                              0100    127 100    127   0      0    479      0                              0
+  0      0   0      0   0      0      0      0                              0  0      0   0      0   0      0      0      0           00:01              0100    261 100    261   0      0    166      0   00:01   00:01            200100    261 100    261   0      0    166      0   00:01   00:01            200
+  0      0   0      0   0      0      0      0           00:01              0100    496   0    496   0      0    199      0           00:02              0100    496   0    496   0      0    199      0           00:02              0
+  0      0   0      0   0      0      0      0           00:02              0  0 366.7M   0  1.54M   0      0 450.7k      0   13:53   00:03   13:50  1.50M 10 366.7M  10 37.26M   0      0  8.16M      0   00:44   00:04   00:40 17.93M 22 366.7M  22 82.82M   0      0 14.76M      0   00:24   00:05   00:19 26.49M 34 366.7M  34 124.7M   0      0 18.73M      0   00:19   00:06   00:13 29.88M 46 366.7M  46 172.1M   0      0 22.34M      0   00:16   00:07   00:09 32.96M 55 366.7M  55 203.0M   0      0 23.18M      0   00:15   00:08   00:07 38.41M 64 366.7M  64 238.1M   0      0 24.28M      0   00:15   00:09   00:06 38.31M 78 366.7M  78 286.7M   0      0 26.41M      0   00:13   00:10   00:03 38.88M 91 366.7M  91 336.6M   0      0 28.28M      0   00:12   00:11   00:01 40.40M100 366.7M 100 366.7M   0      0 29.17M      0   00:12   00:12         40.40M100 366.7M 100 366.7M   0      0 29.17M      0   00:12   00:12         40.40M100 366.7M 100 366.7M   0      0 29.17M      0   00:12   00:12         40.40M
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004hlls -1 lh log.tar.gz[?2004l
+ls: log.tar.gz: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004hccurl -L '[7mhttps://www.dropbox.com/s/14jagxjbzhyxg8g/lo[7mg[7m.tar.gz?dl=1' -o log.tar.gz[27m[K[A[23C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mw[27mw[27mw[27m.[27md[27mr[27mo[27mp[27mb[27mo[27mx[27m.[27mc[27mo[27mm[27m/[27ms[27m/[27m1[27m4[27mj[27ma[27mg[27mx[27mj[27mb[27mz[27mh[27my[27mx[27mg[27m8[27mg[27m/[27ml[27mog[27m.[27mt[27ma[27mr[27m.[27mg[27mz[27m?[27md[27ml[27m=[27m1[27m'[27m [27m-[27mo[27m [27ml[27mo[27mg[27m.[27mt[27ma[27mr[27m.[27mg[K    ar.gz[?2004l
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100    127 100    127   0      0    315      0                              0100    127 100    127   0      0    314      0                              0
+  0      0   0      0   0      0      0      0                              0100    261 100    261   0      0    217      0   00:01   00:01              0100    261 100    261   0      0    217      0   00:01   00:01              0
+  0      0   0      0   0      0      0      0           00:01              0100    496   0    496   0      0    223      0           00:02              0100    496   0    496   0      0    223      0           00:02              0
+  0      0   0      0   0      0      0      0           00:02              0  0 366.7M   0  3.48M   0      0  1.07M      0   05:41   00:03   05:38  3.40M 10 366.7M  10 37.31M   0      0  8.66M      0   00:42   00:04   00:38 17.94M 22 366.7M  22 81.49M   0      0 15.22M      0   00:24   00:05   00:19 26.05M 32 366.7M  32 119.0M   0      0 18.58M      0   00:19   00:06   00:13 28.47M 43 366.7M  43 161.1M   0      0 21.61M      0   00:16   00:07   00:09 30.80M 55 366.7M  55 203.7M   0      0 23.97M      0   00:15   00:08   00:07 38.14M 67 366.7M  67 246.8M   0      0 25.84M      0   00:14   00:09   00:05 39.95M 77 366.7M  77 285.5M   0      0 26.95M      0   00:13   00:10   00:03 38.92M 89 366.7M  89 329.1M   0      0 28.26M      0   00:12   00:11   00:01 40.10M100 366.7M 100 366.7M   0      0 29.63M      0   00:12   00:12         40.10M100 366.7M 100 366.7M   0      0 29.63M      0   00:12   00:12         40.10M100 366.7M 100 366.7M   0      0 29.63M      0   00:12   00:12         40.10M
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004hlls -lh log.tar.gz[?2004l
+-rw-r--r--  1 jenitchadha  staff   367M Oct 17 13:39 log.tar.gz
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004httar -tzf log.tar.gz |e  head -3- 0[?2004l
+log.csv
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004httar -xyz log.tar.gz[?2004l
+tar: Can't specify both -z and -y
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004htar -xyz log.tar.gz[P[12C [13D[P[12C [13Dxz log.tar.gz[12D[1Cf log.tar.gz[11D[?2004l
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004hlls -lh[?2004l
+total 6952016
+drwx------@    5 jenitchadha  staff   160B May 25  2023 Applications
+-rw-r--r--     1 jenitchadha  staff   7.0K Oct 17 13:41 bash_session.txt
+-rw-r--r--@    1 jenitchadha  staff   962B Apr 14  2026 between_group_ttests.csv
+-rw-r--r--@    1 jenitchadha  staff   546K Apr 14  2026 conformity_familiarity_bias.png
+drwxr-xr-x@    7 jenitchadha  staff   224B Jan 27  2026 data
+-rw-r--r--@    1 jenitchadha  staff   1.5K Apr 14  2026 descriptives_balanced.csv
+-rw-r--r--@    1 jenitchadha  staff   1.5K Apr 14  2026 descriptives_full.csv
+drwx------+   37 jenitchadha  staff   1.2K Oct 15 16:32 Desktop
+-rw-r--r--@    1 jenitchadha  staff   141K Sep 26  2024 dmv driving practice.docx
+drwx------@    8 jenitchadha  staff   256B Apr 21 16:53 Documents
+drwx------+ 1182 jenitchadha  staff    37K Oct 16 17:29 Downloads
+-rw-r--r--@    1 jenitchadha  staff   6.5K Apr 14  2026 familiarity_scored_balanced.csv
+-rw-r--r--@    1 jenitchadha  staff    15K Apr 14  2026 familiarity_scored_full.csv
+-rw-r--r--@    1 jenitchadha  staff    17K Apr 14  2026 familiarity_scored.csv
+-rw-r--r--@    1 jenitchadha  staff   148K May  6  2024 Graduation Checklist_.pdf
+-rw-r--r--@    1 jenitchadha  staff    11K Apr 14  2026 h2_h3_barplot.png
+drwx------@  105 jenitchadha  staff   3.3K Apr  7  2026 Library
+-rw-r--r--     1 jenitchadha  staff   2.6G Jan  9  2018 log.csv
+-rw-r--r--     1 jenitchadha  staff   367M Oct 17 13:38 log.tar.g
+-rw-r--r--     1 jenitchadha  staff   367M Oct 17 13:39 log.tar.gz
+drwx------     7 jenitchadha  staff   224B Aug 10  2023 Movies
+drwx------+    4 jenitchadha  staff   128B Jan 29  2023 Music
+drwxr-xr-x@    3 jenitchadha  staff    96B Feb 25  2026 others--memory_files
+drwxr-xr-x@    3 jenitchadha  staff    96B Feb 25  2026 others' memory_files
+-rw-r--r--@    1 jenitchadha  staff    23K Feb 25  2026 others' memory.html
+-rw-r--r--@    1 jenitchadha  staff   3.7K Oct 15 14:56 others' memory.qmd
+drwx------+    6 jenitchadha  staff   192B Feb 10  2023 Pictures
+drwxr-xr-x+    4 jenitchadha  staff   128B Jan 22  2023 Public
+drwxr-xr-x     2 jenitchadha  staff    64B Oct 17 13:35 pwd
+-rw-r--r--@    1 jenitchadha  staff     0B Oct 28  2025 readme.md
+-rw-r--r--@    1 jenitchadha  staff    15K Sep 25  2024 SAS 13.docx
+drwxr-xr-x     2 jenitchadha  staff    64B Oct 17 13:35 sds510
+-rw-r--r--@    1 jenitchadha  staff    22K Nov  4  2025 test1_lastrun.py
+-rw-r--r--@    1 jenitchadha  staff   9.1K Nov  4  2025 test1.psyexp
+-rw-r--r--@    1 jenitchadha  staff    22K Oct 28  2025 untitled_lastrun.py
+-rw-r--r--@    1 jenitchadha  staff   9.1K Oct 28  2025 untitled.psyexp
+-rw-r--r--     1 jenitchadha  staff   1.3K Apr 27  2023 Untitled.R
+-rw-r--r--@    1 jenitchadha  staff   576B Apr 14  2026 within_group_ttests.csv
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004hffin nd . -maxdepth 2 -type f|  | gead     head -50[?2004l
+find: ./.Trash: Operation not permitted
+./.Rhistory
+./Music/.localized
+./log.csv
+./test1.psyexp
+./descriptives_full.csv
+./.DS_Store
+./untitled_lastrun.py
+./.CFUserTextEncoding
+./descriptives_balanced.csv
+./.xonshrc
+./Graduation Checklist_.pdf
+./test1_lastrun.py
+./.zshrc
+./log.tar.gz
+./Pictures/.DS_Store
+./Pictures/.localized
+./familiarity_scored.csv
+./dmv driving practice.docx
+./.psychopy3/appData.cfg
+./.psychopy3/userPrefs.cfg
+./.psychopy3/last_app_load.log
+./.zsh_history
+./Desktop/Leadership and Self-Deception_ Personal Workbook - jc.pptx
+./Desktop/Screenshot 2026-04-25 at 3.49.32 PM.png
+./Desktop/Xiaoyu Zhou's CV .docx
+./Desktop/Maanvi Shah_AT.pdf
+./Desktop/farewell card rcffp.pdf
+./Desktop/EFIM10015_2517458.pdf.docx
+./Desktop/.DS_Store
+./Desktop/Screenshot 2026-10-14 at 4.14.11 PM.png
+./Desktop/Screenshot 2026-04-25 at 3.49.22 PM.png
+./Desktop/.localized
+./Desktop/Frontier Airlines | Book Flights, Airline Tickets, Discount Airfare on FlyFrontier.com.pdf
+./Desktop/Screenshot 2026-10-15 at 4.32.25 PM.png
+./Desktop/~$aoyu Zhou's CV .docx
+./Desktop/Screenshot 2026-05-19 at 12.47.49 PM.png
+./Desktop/Screenshot 2026-02-13 at 10.48.57 PM.png
+./Desktop/Print Labels - LugLess.pdf
+./Desktop/PLAY_899_41535_NaturalPlay.mp4
+./Desktop/Screenshot 2026-02-10 at 2.57.25 PM.png
+./Desktop/Screenshot 2026-02-13 at 10.49.06 PM.png
+./Desktop/Screenshot 2026-10-03 at 6.34.28 PM.png
+./Desktop/Screenshot 2026-04-25 at 3.11.57 PM.png
+./Desktop/Others' Memory - Analyses Meeting.mp4
+./Desktop/Screenshot 2026-02-13 at 10.48.42 PM.png
+./Desktop/Print Labels - LugLess UPDATED.pdf
+./Desktop/bds hw 2.R
+./Desktop/Statements of Purpose UCSD.docx
+./Desktop/Xiaoyu Zhou's Resume.docx
+./Desktop/CHADHA_BDS_FinalProject.mp4
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air ~ % [K[?2004hccd ~/sds510[?2004l
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hmmv ~/log.csv ~/sds510\ /[?2004l
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hlls -lh[?2004l
+total 5440512
+-rw-r--r--  1 jenitchadha  staff   2.6G Jan  9  2018 log.csv
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hr ggrep -ing G f F , 'education.text   xt' log.csv > ex dc ucation_re [Kccords.txt[?2004l
+wc -l edc ucation. _records.tex  ct  xt head -10 education_records.txt
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hwwc -l education_records.txt head -10 education_r [Keecords.txt[?2004l
+       2 education_records.txt
+wc: head: open: No such file or directory
+wc: -10: open: No such file or directory
+       2 education_records.txt
+       4 total
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hccat education_rco  ecorfs  ds.tex  xt[?2004l
+6219789:86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+22898382:86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3careereducation.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hhhead -10 education_records.txt[?2004l
+6219789:86.153.148.abf,2017-06-27,06:14:10,0.0,1046568.0,0001132625-10-000026,v13ga4careereducation.txt,200.0,5440.0,0.0,0.0,0.0,10.0,0.0,
+22898382:86.153.148.abf,2017-06-27,22:41:48,0.0,1046568.0,0001132625-09-000021,v13ga3careereducation.txt,200.0,5619.0,0.0,0.0,0.0,10.0,0.0,
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hlls - lh education_records.txt[?2004l
+-rw-r--r--  1 jenitchadha  staff   279B Oct 17 13:46 education_records.txt
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...       5 completed.
+
+Script done on Sat Oct 17 13:48:27 2026
