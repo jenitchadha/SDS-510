@@ -146,3 +146,55 @@ Saving session...
 Deleting expired sessions...       5 completed.
 
 Script done on Sat Oct 17 13:48:27 2026
+Script started on Sat Oct 17 16:38:38 2026
+Restored session: Sat Oct 17 13:48:26 MST 2026
+pwd[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004hppwd[?2004l
+/Users/jenitchadha/sds510
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mbash_git_session.txt[m
+	[31mlog.csv[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mgit log --oneline[27m[17D[27mg[27mi[27mt[27m [27ml[27mo[27mg[27m [27m-[27m-[27mo[27mn[27me[27ml[27mi[27mn[27me[?2004l
+[?1h=[33m5b42576[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge branch 'main' of https://github.com/jenitchadha/SDS-5[m [33m[m[33m[m[1;36m[m[33m[m[1;32m[m[33m[m[1;31m[m[33m[m10[m
+[33m4271c46[m Initial commit[m
+[33me437773[m Add education records and Bash transcript[m
+[K[?1l>[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mgit add bash_session.txt bash_git_session.txt ed[7mu[7mcation_records.txt[27m[K[A[28C[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mb[27ma[27ms[27mh[27m_[27ms[27me[27ms[27ms[27mi[27mo[27mn[27m.[27mt[27mx[27mt[27m [27mb[27ma[27ms[27mh[27m_[27mg[27mi[27mt[27m_[27ms[27me[27ms[27ms[27mi[27mo[27mn[27m.[27mt[27mx[27mt[27m [27me[27mdu[27mc[27ma[27mt[27mi[27mo[27mn[27m_[27mr[27me[27mc[27mo[27mr[27md[27ms[27m.[27mt[27mx[27mt[?2004l
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mgit status[27m[10D[27mg[27mi[27mt[27m [27ms[27mt[27ma[27mt[27mu[27ms[?2004l
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   bash_git_session.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mlog.csv[m
+
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mgit commit -m "Add Git session transcript"[27m[42D[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mA[27md[27md[27m [27mG[27mi[27mt[27m [27ms[27me[27ms[27ms[27mi[27mo[27mn[27m [27mt[27mr[27ma[27mn[27ms[27mc[27mr[27mi[27mp[27mt[27m"[?2004l
+[main 6561fe8] Add Git session transcript
+ 1 file changed, 19 insertions(+)
+ create mode 100644 bash_git_session.txt
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mgit push[27m[8D[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[?2004l
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 899 bytes | 899.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/jenitchadha/SDS-510.git
+   5b42576..6561fe8  main -> main
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://Jenits-MacBook-Air.local/Users/jenitchadha/sds510[0m[27m[24m[J(base) jenitchadha@Jenits-MacBook-Air sds510 % [K[?2004h[7mexit[27m[27me[27mx[27mi[27mt[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Oct 17 16:39:59 2026
